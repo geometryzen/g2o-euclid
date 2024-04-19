@@ -1,5 +1,5 @@
-import { greeting } from "../src/index";
+import { CircleCircleIntersection } from "../src/index";
 
 test("index", function () {
-    expect(greeting("World")).toBe("Hello, World!");
+    expect(typeof CircleCircleIntersection === 'function').toBe(true);
 });

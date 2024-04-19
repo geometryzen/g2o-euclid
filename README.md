@@ -1,10 +1,10 @@
-# my-lib
+# g2o-euclid
 
-My TypeScript Library Template
+g2o Euclidean Geometry Utilities
 
-[![version](https://img.shields.io/npm/v/@geometryzen/my-lib.svg)](https://www.npmjs.com/package/@geometryzen/my-lib) 
+[![version](https://img.shields.io/npm/v/g2o-euclid.svg)](https://www.npmjs.com/package/g2o-euclid) 
 
-[![npm downloads](https://img.shields.io/npm/dm/@geometryzen/my-lib.svg)](https://npm-stat.com/charts.html?package=@geometryzen/my-lib&from=2022-09-01)
+[![npm downloads](https://img.shields.io/npm/dm/g2o-euclid.svg)](https://npm-stat.com/charts.html?package=g2o-euclid&from=2022-09-01)
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
