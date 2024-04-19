@@ -52,7 +52,7 @@ export class CircleCircleIntersection implements Disposable {
                     this.points.length = 0;
                 }
             }
-        }
+        };
         this.#disposables.push(effect(() => {
             ca.copy(circleA.position);
             cb.copy(circleB.position);
